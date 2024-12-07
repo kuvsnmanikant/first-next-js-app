@@ -32,3 +32,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Extentions installed in vscode
+
+> ES7+React/...
+> javascript and typescript
+> Tailwind css intellisencse
+
+## how to code 
+
+> while creating application give default response to all dipendences showing in it
+> if you want to route then create a folder in app folder and add page.tsx
+> to create basic code in page.tsx type <b> rafce <b> then vscode will suggest the code because of installed plugins
