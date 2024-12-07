@@ -36,12 +36,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Extentions installed in vscode
 
-> ES7+React/...
-> javascript and typescript
-> Tailwind css intellisencse
+- ES7+React/...
+- javascript and typescript
+- Tailwind css intellisencse
 
 ## how to code 
 
-> while creating application give default response to all dipendences showing in it
-> if you want to route then create a folder in app folder and add page.tsx
-> to create basic code in page.tsx type <b> rafce <b> then vscode will suggest the code because of installed plugins
+- while creating application give default response to all dipendences showing in it
+- if you want to route then create a folder in app folder and add page.tsx
+- to create basic code in page.tsx type <b> rafce <b> then vscode will suggest the code because of installed plugins
